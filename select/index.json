@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "シャッター",
+  "base_artist": "Yuuri",
+  "createdAt": "2025-12-07T16:49:05.537092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャッター",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/01_シャッター_aiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シャッター",
+      "artist": "Foi",
+      "has_synced": true,
+      "path": "select/02_シャッター_Foi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シャッター",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/03_シャッター_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/04_シャッター_優里.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シャッター",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/05_シャッター_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シャッター",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/06_シャッター_aiko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/07_シャッター_優里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_シャッター_優里.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_02_シャッター_優里.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_03_シャッター_優里.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_04_シャッター_優里.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_05_シャッター_優里.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_06_シャッター_優里.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_07_シャッター_優里.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "シャッター",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_08_シャッター_優里.txt"
+    }
+  ]
+}
